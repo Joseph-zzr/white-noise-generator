@@ -18,7 +18,8 @@
 5. 享受清新和宁静的音效，提升专注力或放松心情。
 
 ## 界面展示
-
+youtube:https://www.youtube.com/watch?v=PJCLoSA9MHE
+![1](https://github.com/user-attachments/assets/eba7a9c6-5b3f-46e6-baea-e271d8d2917a)
 网站界面设计简洁，用户友好。包括：
 - **白噪音波形图**：展示声音的实时波动。
 - **音量调节条**：调整音量，方便灵活。
